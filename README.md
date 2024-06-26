@@ -1,1 +1,1 @@
-# Parallelized-Bloom-Filter
+# Bloom Filter with Shared Memory Parallelism
